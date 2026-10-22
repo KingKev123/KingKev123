@@ -4,7 +4,7 @@ I build applied AI and business-critical software, taking work from problem defi
 
 ### What I work on
 
-- **AI and ML:** model training and evaluation, model integration & fine tuning, and agent workflows using Python and C++.
+- **AI and ML:** model training and evaluation, model integration, fine tuning, and agent workflows using Python and C++.
 - **Platform engineering:** multi-country EOR, payroll, and employee lifecycle workflows using TypeScript, React, Node.js, and PostgreSQL.
 - **Technical leadership:** reviewing high-risk changes and turning lessons from delivery into tests and engineering guardrails.
 
