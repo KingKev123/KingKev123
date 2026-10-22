@@ -1,6 +1,6 @@
 ## AI engineering with production discipline
 
-I'm Kevin Botha, an AI developer and ML engineer building applied AI and business-critical software. I take work from problem definition through implementation, evaluation, and reliable delivery.
+I build applied AI and business-critical software, taking work from problem definition through implementation, evaluation, and reliable delivery.
 
 ### What I work on
 
